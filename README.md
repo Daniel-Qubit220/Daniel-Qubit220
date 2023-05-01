@@ -16,6 +16,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=plastic&logo=javascript&logoColor=white">
     <img alt="graphql" src="https://img.shields.io/badge/GraphQl%20-%23E10098.svg?style=plastic&logo=graphql&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23004E81.svg?style=plastic&logo=databricks&logoColor=white">
 
 <br>
 
