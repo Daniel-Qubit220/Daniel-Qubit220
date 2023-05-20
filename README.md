@@ -17,6 +17,7 @@
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=plastic&logo=javascript&logoColor=white">
     <img alt="graphql" src="https://img.shields.io/badge/GraphQl%20-%23E10098.svg?style=plastic&logo=graphql&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23004E81.svg?style=plastic&logo=databricks&logoColor=white">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230175C2.svg?style=plastic&logo=dart&logoColor=white">
 
 <br>
 
@@ -29,6 +30,7 @@
     <img alt="figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white">
     <img alt="docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
     <img alt="flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?style=plastic&logo=flask&logoColor=white">
+    <img alt="flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=plastic&logo=flutter&logoColor=white">
 
  <br>
 
